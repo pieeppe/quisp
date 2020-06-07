@@ -1,5 +1,7 @@
 package networks;
 
+import ned.DatarateChannel;
+import ned.DelayChannel;
 import ned.IdealChannel;
 
 
